@@ -2,6 +2,8 @@
   <img src="https://www.corda.net/wp-content/uploads/2016/11/fg005_corda_b.png" alt="Corda" width="500">
 </p>
 
+[![Build Status](https://travis-ci.com/charliekid/bootcamp-cordapp.svg?token=HWoNiuonpxXpfmXfgt5s&branch=v4)](https://travis-ci.com/charliekid/bootcamp-cordapp)
+
 # Bootcamp CorDapp [<img src="https://raw.githubusercontent.com/corda/samples-java/master/webIDE.png" height=25 />](https://ide.corda.net/?folder=/home/coder/bootcamp-cordapp)
 
 This project is the template we will use as a basis for developing a complete CorDapp 
